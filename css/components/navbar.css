@@ -1,0 +1,62 @@
+.navbar-color {
+  background-color: rgba(116, 145, 154, 0.7);
+}
+
+.navbar-color .navbar-brand,
+.navbar-color .navbar-nav > li > a {
+  color: white;
+  font-family: "verdana", "sans-serif";
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.navbar-color .navbar-right,
+.navbar-color .navbar-nav > li > a {
+  
+
+}
+.navbar-color .navbar-nav > li > a:hover,
+.navbar-color .navbar-nav > li > a:active,
+.navbar-color .navbar-nav > li > a:focus,
+.navbar-color .navbar-nav > .open > a,
+.navbar-color .navbar-nav > .open > a:hover,
+.navbar-color .navbar-nav > .open > a:focus {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.navbar-color .navbar-brand:hover,
+.navbar-color .navbar-brand:active,
+.navbar-color .navbar-brand:focus {
+  color: RGBA(232, 168, 75, 1); 
+}
+
+
+.navbar-toggle .collapsed {
+ color: white;
+} 
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: RGBA(121, 144, 153, 1);
+}
+
+.navbar-default {
+    border-color: RGBA(121, 144, 153, 1);
+}
+
+#brand-color-text {
+ color: RGBA(232, 168, 75, 1);
+}
+
+.navbar-color .navbar-brand:hover #brand-color-text{
+  color: white; 
+}
+
+
+
+
+

@@ -1,0 +1,25 @@
+#background-footer {
+	background-color: RGBA(49, 52, 49, 1);
+	}
+
+#p-footer {
+	margin: auto;
+	font-size: 11px;
+}
+
+footer p {
+	font-family: Calibri, 'Lato', sans-serif;
+	color: white;
+	text-align: center;
+	padding-bottom: 1em;
+	}
+
+.img-footer {
+	width: 40px;
+	height: 40px;
+	margin: 2em 15px 1em 15px;
+}
+
+#icons-footer {
+	text-align: center;
+}

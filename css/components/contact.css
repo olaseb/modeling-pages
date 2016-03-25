@@ -1,0 +1,30 @@
+.text-contact {
+	font-family: 'Lato', sans-serif;
+	margin-top: -20px;
+}
+
+.text-button-contact {
+	margin-top: 1em;
+	font-size: 15px;
+	font-style: light;
+	letter-spacing: 2px;
+	margin-left: -2px;
+
+}
+
+#contact-h1 {
+	font-size: 40px;
+	color: RGBA(95, 135, 146, 1) ;
+	margin-left: -4px;
+}
+
+.text-contact .btn-primary {
+	background-color: RGBA(232, 110, 91, 1);
+	border-color: white
+}
+
+
+.text-contact .btn-primary:hover {
+	background-color: RGBA(232, 110, 91, 0.5); 
+}
+

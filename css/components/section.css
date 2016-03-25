@@ -1,0 +1,58 @@
+section {
+	font-family: 'Lato', sans-serif;
+}
+
+section h1 {
+	text-align: center;
+	margin-bottom: 0.5em;
+}
+
+section h1 .text-black {
+	font-weight: 700;
+}
+
+#p-section-h1 {
+	text-align: center;
+	font-weight: bolder;
+	font-size: 18px;
+}
+section p {
+	color: RGBA(134, 135, 139, 1);
+}
+
+
+.p-liste {
+	color: black;
+	font-weight: bold;
+	color: black;
+	font-size: 15px;
+}
+
+
+#color-orange {
+	color: orange;
+}
+
+#color-red {
+	color: red;
+}
+
+#color-blue {
+	color: RGBA(66, 115, 171, 1);
+}
+
+#color-green {
+	color: RGBA(155, 158, 44, 1);
+}
+
+
+.section-img {
+	display: block;
+    margin: 0 auto 2em auto;
+    position: center;
+}
+
+.p-description {
+	text-align: center;
+	margin-left: 3px;
+}

@@ -1,0 +1,51 @@
+aside {
+	background-color: RGBA(240, 241, 242, 1);
+	font-family: Calibri, 'Lato', sans-serif;
+}
+
+aside h1 + h2 {
+	text-align: center;
+}
+
+aside h1 {
+	padding-top: 1em;
+	font-weight: bolder;
+	text-align: center;
+}
+
+
+.text-blue {
+	color: RGBA(95, 135, 146, 1);
+}
+
+
+.separate-aside {
+	margin-bottom: 2em;
+}
+
+aside #img-zen {
+	background-image: url(../../images/galet.png);
+	background-repeat: no-repeat;
+	height: 320px;
+	background-size: 100%;
+	background-position: center;
+
+}
+
+aside p {
+	font-size: 17px;
+	padding-bottom: 1em;
+}
+
+.col-xs-4 {
+	float: none;
+	padding-top: 27em;
+	height: 607px;
+	position: center;
+}
+
+.col-xs-8 {
+	padding-left: 20px;
+}
+
+

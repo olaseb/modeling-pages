@@ -1,0 +1,29 @@
+.modal-header {
+	background-color: RGBA(156, 172, 179, 1);
+	padding: O 10px 0em 10px;
+	margin: 0em 0em 0em 0em;
+}
+
+.modal-title {
+	font-family: Calibri, 'Lato', sans-serif;
+	color: white;
+	font-size: 15px;
+	margin-left: 5px;
+}
+
+.close {
+	color: white;
+	opacity: 100;
+}
+
+.close:hover {
+	color: RGBA(239, 154, 61, 1);
+}
+
+.modal-footer {
+	background-color: RGBA(50, 52, 49, 1);
+	height: 2px;
+}
+
+
+

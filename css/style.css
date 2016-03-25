@@ -1,0 +1,27 @@
+/* --- Google Fonts --- */
+@import url("");
+
+
+/* ---- Components design --- */
+
+@import url("components/wrapper.css");
+@import url("components/button.css");
+@import url("components/navbar.css");
+@import url("components/section.css");
+@import url("components/aside.css");
+@import url("components/footer.css");
+@import url("components/contact.css");
+@import url("components/modal.css");
+@import url("components/hover.css");
+
+/* --- Fonts --- */
+body {
+	font-family: "Verdana, Arial, Calibri";
+}
+
+
+
+.separate {
+	margin-top: 6em;
+}
+
